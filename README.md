@@ -1,5 +1,6 @@
 ![Zohaib Anwar's github stats](https://github-readme-stats.vercel.app/api?username=anwarMZ&count_private=true&?theme=solarized-dark)
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anwarMZ&layout=compact)](https://github.com/anwarMZ/github-readme-stats)
 
 <!--
 **anwarMZ/anwarMZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
