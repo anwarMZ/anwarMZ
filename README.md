@@ -1,7 +1,7 @@
 ![Zohaib Anwar's github stats](https://github-readme-stats.vercel.app/api?username=anwarMZ&count_private=true&?theme=solarized-dark)
 
-#### Hi, I am Zohaib Postdoctoral Research Fellow at University of British Columbia and BC Centre for Disease Control in Vancouver BC. 
-#### I mainly work on Microbial bioinformatics, metagenomics, metatranscriptomics, and Public Health.
+#### Hi, I am Zohaib Postdoctoral Research Fellow at Simon Fraser University in Vancouver BC. 
+#### I mainly work on Microbial genomics & bioinformatics.
 
 #### I ususally develop in following programming languages/frameworks
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anwarMZ&layout=compact)](https://github.com/anwarMZ/github-readme-stats)
